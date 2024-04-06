@@ -6,7 +6,7 @@ This Discord bot fetches the backlog of a specified GitHub repository and sends 
 
 ### Prerequisites
 
-- Python 3.x installed on your system
+- Python 3 installed on your system
 - Discord bot token
 - GitHub repository details
 
